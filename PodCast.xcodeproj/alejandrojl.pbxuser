@@ -1,0 +1,1214 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PodCast */ = {
+		activeExec = 0;
+		executables = (
+			A462B9E4126D16E700E15519 /* PodCast */,
+		);
+	};
+	2860E325111B887F00E27156 /* AppDelegate_iPhone.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 751}}";
+			sepNavSelRange = "{160, 0}";
+			sepNavVisRange = "{0, 225}";
+		};
+	};
+	2860E326111B887F00E27156 /* AppDelegate_iPhone.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 962}}";
+			sepNavSelRange = "{111, 0}";
+			sepNavVisRange = "{0, 1955}";
+		};
+	};
+	2860E32B111B888700E27156 /* AppDelegate_iPad.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 751}}";
+			sepNavSelRange = "{40, 0}";
+			sepNavVisRange = "{0, 221}";
+		};
+	};
+	2860E32C111B888700E27156 /* AppDelegate_iPad.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 819}}";
+			sepNavSelRange = "{104, 0}";
+			sepNavVisRange = "{0, 1528}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = A462B9E4126D16E700E15519 /* PodCast */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PodCast */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PodCast */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = A462B9EF126D170600E15519 /* Code sense */;
+		executables = (
+			A462B9E4126D16E700E15519 /* PodCast */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1429,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1389,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309390699;
+			PBXWorkspaceStateSaveDate = 309390699;
+		};
+		perUserProjectItems = {
+			A4616CA11270EE0500848463 /* PBXTextBookmark */ = A4616CA11270EE0500848463 /* PBXTextBookmark */;
+			A4616CA21270EE0500848463 /* PBXTextBookmark */ = A4616CA21270EE0500848463 /* PBXTextBookmark */;
+			A4616CA31270EE0500848463 /* PBXTextBookmark */ = A4616CA31270EE0500848463 /* PBXTextBookmark */;
+			A4616CBB1270F65600848463 /* PBXTextBookmark */ = A4616CBB1270F65600848463 /* PBXTextBookmark */;
+			A4616CBC1270F65600848463 /* PBXTextBookmark */ = A4616CBC1270F65600848463 /* PBXTextBookmark */;
+			A4616CBD1270F65600848463 /* PBXTextBookmark */ = A4616CBD1270F65600848463 /* PBXTextBookmark */;
+			A4616CBE1270F65600848463 /* PBXTextBookmark */ = A4616CBE1270F65600848463 /* PBXTextBookmark */;
+			A4616CBF1270F65600848463 /* PBXTextBookmark */ = A4616CBF1270F65600848463 /* PBXTextBookmark */;
+			A4616CC11270F68000848463 /* PBXTextBookmark */ = A4616CC11270F68000848463 /* PBXTextBookmark */;
+			A4616CC21270F68000848463 /* PBXTextBookmark */ = A4616CC21270F68000848463 /* PBXTextBookmark */;
+			A4616CC31270F68000848463 /* PBXTextBookmark */ = A4616CC31270F68000848463 /* PBXTextBookmark */;
+			A4616CC41270F68000848463 /* PBXTextBookmark */ = A4616CC41270F68000848463 /* PBXTextBookmark */;
+			A4616CC81270F6C900848463 /* PBXTextBookmark */ = A4616CC81270F6C900848463 /* PBXTextBookmark */;
+			A4616CC91270F6FD00848463 /* PBXTextBookmark */ = A4616CC91270F6FD00848463 /* PBXTextBookmark */;
+			A4616CCA1270F6FD00848463 /* PBXTextBookmark */ = A4616CCA1270F6FD00848463 /* PBXTextBookmark */;
+			A4616CCC1270F71300848463 /* PBXTextBookmark */ = A4616CCC1270F71300848463 /* PBXTextBookmark */;
+			A4616CCD1270F72800848463 /* PBXTextBookmark */ = A4616CCD1270F72800848463 /* PBXTextBookmark */;
+			A4616CCF1270F74900848463 /* PBXTextBookmark */ = A4616CCF1270F74900848463 /* PBXTextBookmark */;
+			A4616CD01270F76700848463 /* PBXTextBookmark */ = A4616CD01270F76700848463 /* PBXTextBookmark */;
+			A4616CF91270F85200848463 /* PBXTextBookmark */ = A4616CF91270F85200848463 /* PBXTextBookmark */;
+			A4616CFA1270F85200848463 /* PBXTextBookmark */ = A4616CFA1270F85200848463 /* PBXTextBookmark */;
+			A4616CFB1270F85200848463 /* PBXTextBookmark */ = A4616CFB1270F85200848463 /* PBXTextBookmark */;
+			A4616CFE1270F88000848463 /* PBXTextBookmark */ = A4616CFE1270F88000848463 /* PBXTextBookmark */;
+			A4616CFF1270F88000848463 /* PBXTextBookmark */ = A4616CFF1270F88000848463 /* PBXTextBookmark */;
+			A4616D041270F8CC00848463 /* PBXTextBookmark */ = A4616D041270F8CC00848463 /* PBXTextBookmark */;
+			A4616D051270F8CC00848463 /* PBXTextBookmark */ = A4616D051270F8CC00848463 /* PBXTextBookmark */;
+			A4616D061270F8CC00848463 /* PBXTextBookmark */ = A4616D061270F8CC00848463 /* PBXTextBookmark */;
+			A4616D371270FB4600848463 /* PBXTextBookmark */ = A4616D371270FB4600848463 /* PBXTextBookmark */;
+			A4616D381270FB4600848463 /* PBXTextBookmark */ = A4616D381270FB4600848463 /* PBXTextBookmark */;
+			A4616D391270FB4600848463 /* XCBuildMessageTextBookmark */ = A4616D391270FB4600848463 /* XCBuildMessageTextBookmark */;
+			A4616D3A1270FB4600848463 /* PBXTextBookmark */ = A4616D3A1270FB4600848463 /* PBXTextBookmark */;
+			A4616D3D1270FB6600848463 /* PBXTextBookmark */ = A4616D3D1270FB6600848463 /* PBXTextBookmark */;
+			A4616D3E1270FB6600848463 /* XCBuildMessageTextBookmark */ = A4616D3E1270FB6600848463 /* XCBuildMessageTextBookmark */;
+			A4616D3F1270FB6600848463 /* PBXTextBookmark */ = A4616D3F1270FB6600848463 /* PBXTextBookmark */;
+			A4616D421270FB6F00848463 /* PBXTextBookmark */ = A4616D421270FB6F00848463 /* PBXTextBookmark */;
+			A4616D431270FB6F00848463 /* PBXTextBookmark */ = A4616D431270FB6F00848463 /* PBXTextBookmark */;
+			A4616D441270FB6F00848463 /* PBXTextBookmark */ = A4616D441270FB6F00848463 /* PBXTextBookmark */;
+			A4616D451270FB6F00848463 /* PBXTextBookmark */ = A4616D451270FB6F00848463 /* PBXTextBookmark */;
+			A4616D461270FB6F00848463 /* PBXTextBookmark */ = A4616D461270FB6F00848463 /* PBXTextBookmark */;
+			A4616D471270FB6F00848463 /* PBXTextBookmark */ = A4616D471270FB6F00848463 /* PBXTextBookmark */;
+			A4616D481270FB6F00848463 /* PBXTextBookmark */ = A4616D481270FB6F00848463 /* PBXTextBookmark */;
+			A4616D491270FB6F00848463 /* PBXTextBookmark */ = A4616D491270FB6F00848463 /* PBXTextBookmark */;
+			A4616D4A1270FB6F00848463 /* PBXTextBookmark */ = A4616D4A1270FB6F00848463 /* PBXTextBookmark */;
+			A4616D4B1270FB6F00848463 /* PBXTextBookmark */ = A4616D4B1270FB6F00848463 /* PBXTextBookmark */;
+			A4616D4C1270FB6F00848463 /* PBXTextBookmark */ = A4616D4C1270FB6F00848463 /* PBXTextBookmark */;
+			A4616D4D1270FB6F00848463 /* XCBuildMessageTextBookmark */ = A4616D4D1270FB6F00848463 /* XCBuildMessageTextBookmark */;
+			A4616D4E1270FB6F00848463 /* PBXTextBookmark */ = A4616D4E1270FB6F00848463 /* PBXTextBookmark */;
+			A4616D611270FC2E00848463 /* PBXTextBookmark */ = A4616D611270FC2E00848463 /* PBXTextBookmark */;
+			A4616D621270FC2E00848463 /* PBXTextBookmark */ = A4616D621270FC2E00848463 /* PBXTextBookmark */;
+			A4616D631270FC2E00848463 /* PBXTextBookmark */ = A4616D631270FC2E00848463 /* PBXTextBookmark */;
+			A4616D641270FC2E00848463 /* PBXTextBookmark */ = A4616D641270FC2E00848463 /* PBXTextBookmark */;
+			A4616D6A1270FC5600848463 /* PBXTextBookmark */ = A4616D6A1270FC5600848463 /* PBXTextBookmark */;
+			A4616D6F1270FC6D00848463 /* PBXTextBookmark */ = A4616D6F1270FC6D00848463 /* PBXTextBookmark */;
+			A4616D731270FC7700848463 /* PBXTextBookmark */ = A4616D731270FC7700848463 /* PBXTextBookmark */;
+			A4616D751270FC8D00848463 /* PBXTextBookmark */ = A4616D751270FC8D00848463 /* PBXTextBookmark */;
+			A4616D761270FC9500848463 /* PBXTextBookmark */ = A4616D761270FC9500848463 /* PBXTextBookmark */;
+			A4616D771270FCBD00848463 /* PBXTextBookmark */ = A4616D771270FCBD00848463 /* PBXTextBookmark */;
+			A4616D781270FD6800848463 /* PBXTextBookmark */ = A4616D781270FD6800848463 /* PBXTextBookmark */;
+			A4616D791270FD6800848463 /* PBXTextBookmark */ = A4616D791270FD6800848463 /* PBXTextBookmark */;
+			A4616D7A1270FD6800848463 /* PBXTextBookmark */ = A4616D7A1270FD6800848463 /* PBXTextBookmark */;
+			A4616D7B1270FD6800848463 /* PBXTextBookmark */ = A4616D7B1270FD6800848463 /* PBXTextBookmark */;
+			A4616D7C1270FD6800848463 /* PBXTextBookmark */ = A4616D7C1270FD6800848463 /* PBXTextBookmark */;
+			A4616D7D1270FD6800848463 /* PBXTextBookmark */ = A4616D7D1270FD6800848463 /* PBXTextBookmark */;
+			A4616D7E1270FD6800848463 /* PBXTextBookmark */ = A4616D7E1270FD6800848463 /* PBXTextBookmark */;
+			A4616D7F1270FD6800848463 /* PBXTextBookmark */ = A4616D7F1270FD6800848463 /* PBXTextBookmark */;
+			A4616D801270FD6800848463 /* PBXTextBookmark */ = A4616D801270FD6800848463 /* PBXTextBookmark */;
+			A4616D811270FD8600848463 /* PBXTextBookmark */ = A4616D811270FD8600848463 /* PBXTextBookmark */;
+			A4616D821270FD9000848463 /* PBXTextBookmark */ = A4616D821270FD9000848463 /* PBXTextBookmark */;
+			A4616D831270FDAE00848463 /* PBXTextBookmark */ = A4616D831270FDAE00848463 /* PBXTextBookmark */;
+			A4616D841270FE3600848463 /* PBXTextBookmark */ = A4616D841270FE3600848463 /* PBXTextBookmark */;
+			A4616D851270FE3600848463 /* PBXTextBookmark */ = A4616D851270FE3600848463 /* PBXTextBookmark */;
+			A4616D861270FE3600848463 /* PBXTextBookmark */ = A4616D861270FE3600848463 /* PBXTextBookmark */;
+			A4616D871270FE3600848463 /* PBXTextBookmark */ = A4616D871270FE3600848463 /* PBXTextBookmark */;
+			A4616D881270FE3600848463 /* PBXTextBookmark */ = A4616D881270FE3600848463 /* PBXTextBookmark */;
+			A4616D891270FE3600848463 /* PBXTextBookmark */ = A4616D891270FE3600848463 /* PBXTextBookmark */;
+			A4616D8A1270FE3600848463 /* PBXTextBookmark */ = A4616D8A1270FE3600848463 /* PBXTextBookmark */;
+			A4616D8B1270FE3600848463 /* PBXTextBookmark */ = A4616D8B1270FE3600848463 /* PBXTextBookmark */;
+			A4616D8C1270FE3600848463 /* PBXTextBookmark */ = A4616D8C1270FE3600848463 /* PBXTextBookmark */;
+			A4616D8D1270FE3600848463 /* PBXTextBookmark */ = A4616D8D1270FE3600848463 /* PBXTextBookmark */;
+			A4616D8E1270FE3600848463 /* PBXTextBookmark */ = A4616D8E1270FE3600848463 /* PBXTextBookmark */;
+			A4616D8F1270FE3600848463 /* PBXTextBookmark */ = A4616D8F1270FE3600848463 /* PBXTextBookmark */;
+			A4616D901270FE3600848463 /* PBXTextBookmark */ = A4616D901270FE3600848463 /* PBXTextBookmark */;
+			A4616D921270FE8000848463 /* PBXTextBookmark */ = A4616D921270FE8000848463 /* PBXTextBookmark */;
+			A4616D931270FE8000848463 /* PBXTextBookmark */ = A4616D931270FE8000848463 /* PBXTextBookmark */;
+			A4616D941270FE8000848463 /* PBXTextBookmark */ = A4616D941270FE8000848463 /* PBXTextBookmark */;
+			A4616D9B1270FF1200848463 /* PBXTextBookmark */ = A4616D9B1270FF1200848463 /* PBXTextBookmark */;
+			A462BA20126D1F7500E15519 = A462BA20126D1F7500E15519 /* PBXBookmark */;
+			A462BA21126D1F7500E15519 = A462BA21126D1F7500E15519 /* PBXBookmark */;
+			A462BA22126D1F7500E15519 = A462BA22126D1F7500E15519 /* PBXBookmark */;
+			A462BA23126D1F7500E15519 = A462BA23126D1F7500E15519 /* PBXBookmark */;
+		};
+		sourceControlManager = A462B9EE126D170600E15519 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A4616CA11270EE0500848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CA21270EE0500848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 0;
+	};
+	A4616CA31270EE0500848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 0;
+	};
+	A4616CBB1270F65600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CBC1270F65600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 9";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 0;
+	};
+	A4616CBD1270F65600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 4";
+		rLen = 0;
+		rLoc = 40;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	A4616CBE1270F65600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 3";
+		rLen = 0;
+		rLoc = 37;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616CBF1270F65600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 3";
+		rLen = 0;
+		rLoc = 37;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616CC11270F68000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 4";
+		rLen = 0;
+		rLoc = 40;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	A4616CC21270F68000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 5";
+		rLen = 0;
+		rLoc = 41;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616CC31270F68000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 9";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 0;
+	};
+	A4616CC41270F68000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CC81270F6C900848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CC91270F6FD00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CCA1270F6FD00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CCC1270F71300848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CCD1270F72800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CCF1270F74900848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CD01270F76700848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 39;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CF91270F85200848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 9";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 0;
+	};
+	A4616CFA1270F85200848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 11";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CFB1270F85200848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 11";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616CFE1270F88000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 9";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 0;
+	};
+	A4616CFF1270F88000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D001270F88000848463 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 9";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1884;
+		vrLoc = 0;
+	};
+	A4616D001270F88000848463 /* AppDelegate_iPhone.m */ = {
+		isa = PBXFileReference;
+		name = AppDelegate_iPhone.m;
+		path = "/Users/alejandrojl/Proyectos/85% Cocoa/PodCast/iPhone/AppDelegate_iPhone.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 962}}";
+			sepNavSelRange = "{111, 0}";
+			sepNavVisRange = "{0, 1955}";
+		};
+	};
+	A4616D041270F8CC00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 5";
+		rLen = 0;
+		rLoc = 41;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616D051270F8CC00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 4";
+		rLen = 0;
+		rLoc = 40;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	A4616D061270F8CC00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 4";
+		rLen = 0;
+		rLoc = 40;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	A4616D1E1270FA3600848463 /* PodcastsTableViewController_iPhone.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 751}}";
+			sepNavSelRange = "{55, 0}";
+			sepNavVisRange = "{0, 167}";
+		};
+	};
+	A4616D1F1270FA3600848463 /* PodcastsTableViewController_iPhone.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3882, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3933, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3983, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4686}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 2457}}";
+			sepNavSelRange = "{55, 0}";
+			sepNavVisRange = "{0, 1155}";
+		};
+	};
+	A4616D241270FA5300848463 /* PodcastsTableViewController_iPad.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 751}}";
+			sepNavSelRange = "{137, 0}";
+			sepNavVisRange = "{0, 163}";
+		};
+	};
+	A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3871, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3922, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3972, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4675}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 2444}}";
+			sepNavSelRange = "{154, 0}";
+			sepNavVisRange = "{0, 1149}";
+			sepNavWindowFrame = "{{42, 474}, {750, 558}}";
+		};
+	};
+	A4616D281270FA6B00848463 /* ScreencastsTableViewController_iPad.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 751}}";
+			sepNavSelRange = "{60, 0}";
+			sepNavVisRange = "{0, 169}";
+		};
+	};
+	A4616D291270FA6B00848463 /* ScreencastsTableViewController_iPad.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3885, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3936, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3986, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4689}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 2457}}";
+			sepNavSelRange = "{56, 0}";
+			sepNavVisRange = "{0, 1158}";
+		};
+	};
+	A4616D2B1270FA8400848463 /* ScreencastsTableViewController_iPhone.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 751}}";
+			sepNavSelRange = "{58, 0}";
+			sepNavVisRange = "{0, 173}";
+		};
+	};
+	A4616D2C1270FA8400848463 /* ScreencastsTableViewController_iPhone.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3891, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3942, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3992, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4695}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1607, 2457}}";
+			sepNavSelRange = "{58, 0}";
+			sepNavVisRange = "{0, 1164}";
+		};
+	};
+	A4616D371270FB4600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D291270FA6B00848463 /* ScreencastsTableViewController_iPad.m */;
+		name = "ScreencastsTableViewController_iPad.m: 76";
+		rLen = 0;
+		rLoc = 1614;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 1497;
+	};
+	A4616D381270FB4600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D2C1270FA8400848463 /* ScreencastsTableViewController_iPhone.m */;
+		name = "ScreencastsTableViewController_iPhone.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	A4616D391270FB4600848463 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected expression before '<' token";
+		fRef = A4616D1F1270FA3600848463 /* PodcastsTableViewController_iPhone.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 72;
+		rType = 1;
+	};
+	A4616D3A1270FB4600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D1F1270FA3600848463 /* PodcastsTableViewController_iPhone.m */;
+		name = "PodcastsTableViewController_iPhone.m: 76";
+		rLen = 0;
+		rLoc = 1611;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 1494;
+	};
+	A4616D3D1270FB6600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D1F1270FA3600848463 /* PodcastsTableViewController_iPhone.m */;
+		name = "PodcastsTableViewController_iPhone.m: 76";
+		rLen = 0;
+		rLoc = 1611;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 1494;
+	};
+	A4616D3E1270FB6600848463 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected expression before '<' token";
+		fRef = A4616D2C1270FA8400848463 /* ScreencastsTableViewController_iPhone.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 72;
+		rType = 1;
+	};
+	A4616D3F1270FB6600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D2C1270FA8400848463 /* ScreencastsTableViewController_iPhone.m */;
+		name = "ScreencastsTableViewController_iPhone.m: 76";
+		rLen = 0;
+		rLoc = 1620;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 1503;
+	};
+	A4616D421270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 9";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 0;
+	};
+	A4616D431270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 11";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616D441270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 5";
+		rLen = 0;
+		rLoc = 41;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616D451270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 4";
+		rLen = 0;
+		rLoc = 40;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	A4616D461270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D2B1270FA8400848463 /* ScreencastsTableViewController_iPhone.h */;
+		name = "ScreencastsTableViewController_iPhone.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 290;
+		vrLoc = 0;
+	};
+	A4616D471270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D1E1270FA3600848463 /* PodcastsTableViewController_iPhone.h */;
+		name = "PodcastsTableViewController_iPhone.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 284;
+		vrLoc = 0;
+	};
+	A4616D481270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D1F1270FA3600848463 /* PodcastsTableViewController_iPhone.m */;
+		name = "PodcastsTableViewController_iPhone.m: 82";
+		rLen = 0;
+		rLoc = 1781;
+		rType = 0;
+		vrLen = 1459;
+		vrLoc = 967;
+	};
+	A4616D491270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D241270FA5300848463 /* PodcastsTableViewController_iPad.h */;
+		name = "PodcastsTableViewController_iPad.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 0;
+	};
+	A4616D4A1270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 82";
+		rLen = 0;
+		rLoc = 1775;
+		rType = 0;
+		vrLen = 1695;
+		vrLoc = 1172;
+	};
+	A4616D4B1270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D281270FA6B00848463 /* ScreencastsTableViewController_iPad.h */;
+		name = "ScreencastsTableViewController_iPad.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	A4616D4C1270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D291270FA6B00848463 /* ScreencastsTableViewController_iPad.m */;
+		name = "ScreencastsTableViewController_iPad.m: 82";
+		rLen = 0;
+		rLoc = 1784;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 0;
+	};
+	A4616D4D1270FB6F00848463 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected expression before '<' token";
+		fRef = A4616D2C1270FA8400848463 /* ScreencastsTableViewController_iPhone.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 72;
+		rType = 1;
+	};
+	A4616D4E1270FB6F00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D2C1270FA8400848463 /* ScreencastsTableViewController_iPhone.m */;
+		name = "ScreencastsTableViewController_iPhone.m: 82";
+		rLen = 0;
+		rLoc = 1790;
+		rType = 0;
+		vrLen = 1455;
+		vrLoc = 976;
+	};
+	A4616D611270FC2E00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D2C1270FA8400848463 /* ScreencastsTableViewController_iPhone.m */;
+		name = "ScreencastsTableViewController_iPhone.m: 82";
+		rLen = 0;
+		rLoc = 1790;
+		rType = 0;
+		vrLen = 1459;
+		vrLoc = 976;
+	};
+	A4616D621270FC2E00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D241270FA5300848463 /* PodcastsTableViewController_iPad.h */;
+		name = "PodcastsTableViewController_iPad.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 0;
+	};
+	A4616D631270FC2E00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 82";
+		rLen = 0;
+		rLoc = 1775;
+		rType = 0;
+		vrLen = 1830;
+		vrLoc = 1488;
+	};
+	A4616D641270FC2E00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 82";
+		rLen = 0;
+		rLoc = 1775;
+		rType = 0;
+		vrLen = 1826;
+		vrLoc = 1488;
+	};
+	A4616D6A1270FC5600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 82";
+		rLen = 0;
+		rLoc = 1775;
+		rType = 0;
+		vrLen = 1826;
+		vrLoc = 1488;
+	};
+	A4616D6F1270FC6D00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 95";
+		rLen = 0;
+		rLoc = 2239;
+		rType = 0;
+		vrLen = 1810;
+		vrLoc = 1736;
+	};
+	A4616D731270FC7700848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 82";
+		rLen = 0;
+		rLoc = 1775;
+		rType = 0;
+		vrLen = 1811;
+		vrLoc = 1736;
+	};
+	A4616D751270FC8D00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 94";
+		rLen = 0;
+		rLoc = 2239;
+		rType = 0;
+		vrLen = 2014;
+		vrLoc = 1740;
+	};
+	A4616D761270FC9500848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 94";
+		rLen = 0;
+		rLoc = 2239;
+		rType = 0;
+		vrLen = 1730;
+		vrLoc = 1132;
+	};
+	A4616D771270FCBD00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 97";
+		rLen = 0;
+		rLoc = 2290;
+		rType = 0;
+		vrLen = 1730;
+		vrLoc = 1132;
+	};
+	A4616D781270FD6800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 97";
+		rLen = 0;
+		rLoc = 2290;
+		rType = 0;
+		vrLen = 1730;
+		vrLoc = 1132;
+	};
+	A4616D791270FD6800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D1F1270FA3600848463 /* PodcastsTableViewController_iPhone.m */;
+		name = "PodcastsTableViewController_iPhone.m: 3";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 1155;
+		vrLoc = 0;
+	};
+	A4616D7A1270FD6800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D2B1270FA8400848463 /* ScreencastsTableViewController_iPhone.h */;
+		name = "ScreencastsTableViewController_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 58;
+		rType = 0;
+		vrLen = 173;
+		vrLoc = 0;
+	};
+	A4616D7B1270FD6800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D2C1270FA8400848463 /* ScreencastsTableViewController_iPhone.m */;
+		name = "ScreencastsTableViewController_iPhone.m: 3";
+		rLen = 0;
+		rLoc = 58;
+		rType = 0;
+		vrLen = 1164;
+		vrLoc = 0;
+	};
+	A4616D7C1270FD6800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 11";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616D7D1270FD6800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 9";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 0;
+	};
+	A4616D7E1270FD6800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D1E1270FA3600848463 /* PodcastsTableViewController_iPhone.h */;
+		name = "PodcastsTableViewController_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 167;
+		vrLoc = 0;
+	};
+	A4616D7F1270FD6800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 4";
+		rLen = 0;
+		rLoc = 40;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	A4616D801270FD6800848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 8";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616D811270FD8600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 11";
+		rLen = 0;
+		rLoc = 126;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616D821270FD9000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 2";
+		rLen = 0;
+		rLoc = 25;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616D831270FDAE00848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 2";
+		rLen = 0;
+		rLoc = 25;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616D841270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 3";
+		rLen = 0;
+		rLoc = 53;
+		rType = 0;
+		vrLen = 1149;
+		vrLoc = 0;
+	};
+	A4616D851270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D281270FA6B00848463 /* ScreencastsTableViewController_iPad.h */;
+		name = "ScreencastsTableViewController_iPad.h: 5";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 169;
+		vrLoc = 0;
+	};
+	A4616D861270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D291270FA6B00848463 /* ScreencastsTableViewController_iPad.m */;
+		name = "ScreencastsTableViewController_iPad.m: 3";
+		rLen = 0;
+		rLoc = 56;
+		rType = 0;
+		vrLen = 1158;
+		vrLoc = 0;
+	};
+	A4616D871270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 4";
+		rLen = 0;
+		rLoc = 40;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	A4616D881270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 8";
+		rLen = 0;
+		rLoc = 104;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	A4616D891270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D1E1270FA3600848463 /* PodcastsTableViewController_iPhone.h */;
+		name = "PodcastsTableViewController_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 167;
+		vrLoc = 0;
+	};
+	A4616D8A1270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D1F1270FA3600848463 /* PodcastsTableViewController_iPhone.m */;
+		name = "PodcastsTableViewController_iPhone.m: 3";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 1155;
+		vrLoc = 0;
+	};
+	A4616D8B1270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D2B1270FA8400848463 /* ScreencastsTableViewController_iPhone.h */;
+		name = "ScreencastsTableViewController_iPhone.h: 3";
+		rLen = 0;
+		rLoc = 58;
+		rType = 0;
+		vrLen = 173;
+		vrLoc = 0;
+	};
+	A4616D8C1270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D2C1270FA8400848463 /* ScreencastsTableViewController_iPhone.m */;
+		name = "ScreencastsTableViewController_iPhone.m: 3";
+		rLen = 0;
+		rLoc = 58;
+		rType = 0;
+		vrLen = 1164;
+		vrLoc = 0;
+	};
+	A4616D8D1270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 11";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	A4616D8E1270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 9";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 0;
+	};
+	A4616D8F1270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D241270FA5300848463 /* PodcastsTableViewController_iPad.h */;
+		name = "PodcastsTableViewController_iPad.h: 3";
+		rLen = 0;
+		rLoc = 53;
+		rType = 0;
+		vrLen = 163;
+		vrLoc = 0;
+	};
+	A4616D901270FE3600848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D241270FA5300848463 /* PodcastsTableViewController_iPad.h */;
+		name = "PodcastsTableViewController_iPad.h: 3";
+		rLen = 0;
+		rLoc = 53;
+		rType = 0;
+		vrLen = 163;
+		vrLoc = 0;
+	};
+	A4616D921270FE8000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D241270FA5300848463 /* PodcastsTableViewController_iPad.h */;
+		name = "PodcastsTableViewController_iPad.h: 9";
+		rLen = 0;
+		rLoc = 137;
+		rType = 0;
+		vrLen = 163;
+		vrLoc = 0;
+	};
+	A4616D931270FE8000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 3";
+		rLen = 0;
+		rLoc = 53;
+		rType = 0;
+		vrLen = 1149;
+		vrLoc = 0;
+	};
+	A4616D941270FE8000848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 3";
+		rLen = 0;
+		rLoc = 53;
+		rType = 0;
+		vrLen = 1149;
+		vrLoc = 0;
+	};
+	A4616D9B1270FF1200848463 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4616D251270FA5300848463 /* PodcastsTableViewController_iPad.m */;
+		name = "PodcastsTableViewController_iPad.m: 10";
+		rLen = 0;
+		rLoc = 154;
+		rType = 0;
+		vrLen = 1149;
+		vrLoc = 0;
+	};
+	A462B9E4126D16E700E15519 /* PodCast */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PodCast;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A462B9EE126D170600E15519 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A462B9EF126D170600E15519 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A462B9F6126D199D00E15519 /* Microphone.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Microphone.png;
+		path = "/Users/alejandrojl/Proyectos/85% Cocoa/PodCast/Microphone.png";
+		sourceTree = "<absolute>";
+	};
+	A462B9F8126D19AD00E15519 /* Widescreen.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Widescreen.png;
+		path = "/Users/alejandrojl/Proyectos/85% Cocoa/PodCast/Widescreen.png";
+		sourceTree = "<absolute>";
+	};
+	A462B9FA126D19BD00E15519 /* Widescreen@2x.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "Widescreen@2x.png";
+		path = "/Users/alejandrojl/Proyectos/85% Cocoa/PodCast/Widescreen@2x.png";
+		sourceTree = "<absolute>";
+	};
+	A462B9FC126D19C900E15519 /* Microphone@2x.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "Microphone@2x.png";
+		path = "/Users/alejandrojl/Proyectos/85% Cocoa/PodCast/Microphone@2x.png";
+		sourceTree = "<absolute>";
+	};
+	A462BA20126D1F7500E15519 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A462B9FA126D19BD00E15519 /* Widescreen@2x.png */;
+	};
+	A462BA21126D1F7500E15519 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A462B9F8126D19AD00E15519 /* Widescreen.png */;
+	};
+	A462BA22126D1F7500E15519 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A462B9F6126D199D00E15519 /* Microphone.png */;
+	};
+	A462BA23126D1F7500E15519 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A462B9FC126D19C900E15519 /* Microphone@2x.png */;
+	};
+}
